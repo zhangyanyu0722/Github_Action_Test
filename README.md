@@ -65,11 +65,11 @@ git push -u origin main
 
 - Select ```Actions``` from your GitHub repository page. You get to a page ```Get started with GitHub Actions```. Select the button for ```Set up this workflow``` under ```Python package``` or ```Python Application```
 
-- GitHub creates the following file for you in the subfolder .github/workflows. Add ```pytest example.py``` to the last line:
+- GitHub creates the following file for you in the subfolder .github/workflows. Add ```pytest example.py``` to the last line
 
 ## Verify that tests have been automatically run
 
-- Observe in the repository how the test succeeds. While the test is executing, the repository has yellow marker. This is replaced with a green check mark, once the test succeeds.
+- Observe in the repository how the test succeeds. While the test is executing, the repository has yellow marker. This is replaced with a green check mark, once the test succeeds
 
 
 
