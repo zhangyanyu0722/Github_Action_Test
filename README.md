@@ -1,5 +1,7 @@
 # How to Automatic Testing with GitHub Actions
 
+- This repo is used for BU EC500 A2(2021 Spring)
+
 ## Create a new repository on GitHub
 
 - Select a different repository name than your colleagues (otherwise forking the same name will be strange)
