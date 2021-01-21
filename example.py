@@ -7,7 +7,7 @@ def add(a, b):
     return a + b
 
 def subtract(a, b):
-    return a - b
+    return a + b
 
 def numpy_add(a, b):
     return np.add(a, b)
@@ -26,6 +26,3 @@ def test_add():
 
 def test_subtract():
     assert subtract(2, 3) == -1
-    
-test_add()
-test_subtract()
